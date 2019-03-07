@@ -1724,8 +1724,8 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     border-top-color: #363636;
 }
 
-.c-message_kit__file__meta__text {
-    color: 363636;
+.c-message_kit__file__meta__text, .c-message_kit__file__meta {
+    color: 363636 !important;
 }
 
 .day_divider, .mention_day_container_div .day_divider {
