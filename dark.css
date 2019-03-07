@@ -916,7 +916,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .ql-editor::-webkit-scrollbar-thumb {
     background-color: rgba(84, 84, 84, 0.5);
-    color: #333;
+    color: #363636;
 }
 
     .ql-editor::-webkit-scrollbar-thumb:hover {
