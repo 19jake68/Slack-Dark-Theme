@@ -1724,10 +1724,6 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
     border-top-color: #363636;
 }
 
-.c-message_kit__file__meta__text, .c-message_kit__file__meta {
-    color: 363636 !important;
-}
-
 .day_divider, .mention_day_container_div .day_divider {
     background: #222;
     color: #949494;
@@ -1832,7 +1828,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 }
 
 .c-message:hover .c-message__file_meta, .c-message--hover .c-message__file_meta .c-message--focus .c-message__file_meta {
-    color: #949494;
+    color: #363636;
 }
 
 .c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight) {
