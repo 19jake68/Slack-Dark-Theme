@@ -916,7 +916,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .ql-editor::-webkit-scrollbar-thumb {
     background-color: rgba(84, 84, 84, 0.5);
-    color: #363636;
+    color: #222;
 }
 
     .ql-editor::-webkit-scrollbar-thumb:hover {
@@ -1722,6 +1722,10 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] {
 
 .c-message_list__day_divider__line {
     border-top-color: #363636;
+}
+
+.c-message_kit__file__meta__text {
+    color: 363636;
 }
 
 .day_divider, .mention_day_container_div .day_divider {
